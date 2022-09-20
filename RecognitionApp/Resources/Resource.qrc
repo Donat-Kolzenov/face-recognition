@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Assets">
+        <file>png/AddImage.png</file>
+        <file>png/RemoveImage.png</file>
+        <file>png/FaceRecognition.png</file>
+        <file>png/ObjectRecognition.png</file>
+    </qresource>
+</RCC>
